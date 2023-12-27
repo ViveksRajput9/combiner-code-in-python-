@@ -242,7 +242,7 @@ class MainWindow(QWidget):
                 self.video_label.setText(os.path.basename(self.video_filename))
                 self.enable_combine_button()
              
-
+   
 
 
     def select_output_folder(self):
@@ -266,7 +266,7 @@ class MainWindow(QWidget):
        
     #     output_format = self.output_format_combo.currentText()
         
-    #     codec = 'copy'  # Default to copy for most formats, change as needed
+    #     codec = 'copy'  # Default to copy for most formats, change as needed . 
         
     #     # Map the output format to the appropriate FFmpeg codec or command
     #     if output_format == "MP4":
