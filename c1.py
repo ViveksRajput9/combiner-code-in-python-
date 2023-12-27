@@ -91,11 +91,11 @@ class MainWindow(QWidget):
         # self.output_format_combo.addItem("AVI")
 
 
-        # # Add to layout
+        # Add to layout
         # format_layout = QHBoxLayout()
         # format_layout.addWidget(self.output_format_label)
         # format_layout.addWidget(self.output_format_combo)
-        # # format_layout.addWidget(self.convert_video_format)
+        #  format_layout.addWidget(self.convert_video_format)
 
        
 
